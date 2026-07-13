@@ -39,4 +39,4 @@ jobs:
 
       # Build with Gradle
       - name: Build with Gradle
-        run: ./gradlew build --debug
+        run: ./gradlew build
